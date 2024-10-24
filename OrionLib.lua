@@ -1,4 +1,11 @@
---most of the code made by lucasr/bracketorion
+--[[
+██╗  ██╗██╗    ███████╗██╗  ██╗██╗██████╗ 
+██║  ██║██║    ██╔════╝██║ ██╔╝██║██╔══██╗
+███████║██║    ███████╗█████╔╝ ██║██║  ██║
+██╔══██║██║    ╚════██║██╔═██╗ ██║██║  ██║
+██║  ██║██║    ███████║██║  ██╗██║██████╔╝
+╚═╝  ╚═╝╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝╚═════╝ 
+]]--                                         
 local UserInputService = game:GetService("UserInputService");
 local TweenService = game:GetService("TweenService");
 local RunService = game:GetService("RunService");
